@@ -131,7 +131,7 @@
 		font-size: 14pt;
 		font-weight: 300;
 		line-height: 2;
-		letter-spacing: 0.2em;
+	/*	letter-spacing: 0.2em;      */
 	/*	text-transform: uppercase; */
 	}
 	input, select, textarea {
@@ -203,7 +203,7 @@
 
 	h1 {
 		font-size: 1.85em;
-		letter-spacing: 0.22em;
+	/*	letter-spacing: 0.22em;   */
 		margin: 0 0 0.525em 0;
 	}
 
